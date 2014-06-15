@@ -4,6 +4,7 @@
   "main": "unutm.js",
   "ignore": [
     "**/.*",
-    "bower.json"
+    "bower.json",
+    "tmp"
   ]
 }
