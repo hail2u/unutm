@@ -1,10 +1,10 @@
 {
   "name": "unutm",
   "version": "0.2.0",
-  "main": "unutm.js",
   "ignore": [
     "**/.*",
     "bower.json",
     "tmp"
-  ]
+  ],
+  "main": "unutm.js"
 }
