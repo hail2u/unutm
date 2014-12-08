@@ -17,7 +17,7 @@ USAGE
 
 Invoke this library by adding following HTML code to HTML:
 
-    <script src="/bower_components/unutm/unutm.js"></script>
+    <script src="/bower_components/unutm/unutm.min.js"></script>
 
 
 ### Google Analytics (Experimental)
