@@ -25,7 +25,7 @@ module.exports = function (grunt) {
           ascii_only: true
         },
 
-        preserveComments: false,
+        preserveComments: 'some',
         sourceMap: true
       },
 
