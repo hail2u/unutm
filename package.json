@@ -27,10 +27,7 @@
     "utm",
     "urchin"
   ],
-  "license": {
-    "type": "MIT",
-    "url": "http://hail2u.mit-license.org/2014"
-  },
+  "license": "MIT",
   "main": "build/unutm.min.js",
   "repository": {
     "type": "git",
