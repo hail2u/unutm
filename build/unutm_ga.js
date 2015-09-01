@@ -3,6 +3,7 @@
  *
  * LICENSE: http://hail2u.mit-license.org/2014
  */
+/* exported unutm */
 var unutm = function () {
   var l = location;
   var h = history;
@@ -12,7 +13,7 @@ var unutm = function () {
   }
 
   var u = l.pathname +
-    l.search.replace(/[?&]utm_[^&]+/g, '').replace(/^&/, '?') +
+    l.search.replace(/[?&]utm_[^&]+/g, "").replace(/^&/, "?") +
     l.hash;
-  h.replaceState(null, '', u);
+  h.replaceState(null, "", u);
 };

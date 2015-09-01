@@ -10,12 +10,12 @@
 
   var unutm = function () {
     var u = l.pathname +
-      l.search.replace(/[?&]utm_[^&]+/g, '').replace(/^&/, '?') +
+      l.search.replace(/[?&]utm_[^&]+/g, "").replace(/^&/, "?") +
       l.hash;
-    h.replaceState(null, '', u);
+    h.replaceState(null, "", u);
   };
 
-  if (typeof ga === 'function') {
+  if (typeof ga === "function") {
     ga(unutm());
   } else {
     unutm();
