@@ -13,20 +13,12 @@
     "grunt-contrib-copy": "^0.7.0",
     "grunt-contrib-uglify": "^0.6.0"
   },
-  "files": [
-    "Gruntfile.js",
-    "README.md",
-    "build",
-    "package.json",
-    "unutm.js",
-    "unutm_ga.js"
-  ],
   "homepage": "https://github.com/hail2u/unutm",
   "keywords": [
-    "google",
     "analytics",
-    "utm",
-    "urchin"
+    "google",
+    "urchin",
+    "utm"
   ],
   "license": "MIT",
   "main": "build/unutm.min.js",
