@@ -1,7 +1,7 @@
 /**
  * @preserve unutm_ga.js
  *
- * LICENSE: http://hail2u.mit-license.org/2014
+ * LICENSE: MIT
  */
 /* exported unutm */
 var unutm = function () {

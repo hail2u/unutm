@@ -42,4 +42,4 @@ with `hitCallback` function:
 LICENSE
 -------
 
-MIT: http://hail2u.mit-license.org/2013
+MIT

@@ -1,7 +1,7 @@
 /**
  * @preserve unutm.js
  *
- * LICENSE: http://hail2u.mit-license.org/2013
+ * LICENSE: MIT
  */
 (function (l, h) {
   if (!l.search || !h.replaceState) {
