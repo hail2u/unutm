@@ -6,13 +6,6 @@
   "bugs": {
     "url": "https://github.com/hail2u/unutm/issues"
   },
-  "devDependencies": {
-    "grunt": "1.4.1",
-    "grunt-cli": "1.4.3",
-    "grunt-contrib-clean": "2.0.0",
-    "grunt-contrib-copy": "1.0.0",
-    "grunt-contrib-uglify": "5.0.1"
-  },
   "homepage": "https://github.com/hail2u/unutm",
   "keywords": [
     "analytics",
@@ -21,7 +14,7 @@
     "utm"
   ],
   "license": "MIT",
-  "main": "build/unutm.min.js",
+  "main": "unutm.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/hail2u/unutm.git"
