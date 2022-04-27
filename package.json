@@ -1,7 +1,7 @@
 {
   "name": "unutm",
   "description": "A JavaScript library removes Urchin Traffic Monitor (UTM) parameters from URL.",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "author": "Kyo Nagashima <hail2u@gmail.com> (https://hail2u.net/)",
   "bugs": {
     "url": "https://github.com/hail2u/unutm/issues"
